@@ -7,7 +7,7 @@ import Minfo from '../Components/sections/Minfo';
 
 import MockSec from '../Components/sections/MockSec';
 import Cta from '../Components/sections/Cta';
-import TeamMem from '../Components/sections/TeamMem';
+// import TeamMem from '../Components/sections/TeamMem';
 
 
 

@@ -1,5 +1,5 @@
 import React from "react";
-import {Link} from 'react-router-dom';
+// import {Link} from 'react-router-dom';
 
 const Navbar=()=>{
     return <div>
@@ -35,13 +35,15 @@ const Navbar=()=>{
                                     <li className="nav-item">
                                     {/* <Link to="sbachb"> */}
                                         <a
-                                         href="/about"
+                                        //  href="/about"
                                           aria-label="Toggle navigation">About</a>
                                           {/* </Link> */}
                                     </li>
                                    
                                     <li className="nav-item">
-                                        <a href="/contact" aria-label="Toggle navigation">Contact</a>
+                                        <a 
+                                        // href="/contact" 
+                                        aria-label="Toggle navigation">Contact</a>
                                     </li>
                                 </ul>
                             </div> 

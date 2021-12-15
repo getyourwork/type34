@@ -19,7 +19,7 @@ return <section class="section call-action" id="CVr">
                 </p>
                 <div className="button wow fadeInUp" data-wow-delay=".6s">
                    <Link to="/cvr">
-                    <a  className="btn">Book Now</a>
+                    <a className="btn">Book Now</a>
                     </Link>
                 </div>
             </div>

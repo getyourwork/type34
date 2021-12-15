@@ -36,9 +36,9 @@ return <footer className="footer">
                                 <h3>Follow Us</h3>
                                 <ul>
                                     
-                                    <li><a target="_blank" href="https://twitter.com/thequeleap">Twitter</a></li>
+                                    <li><a  href="https://twitter.com/thequeleap">Twitter</a></li>
                                     <li><a href="xs">linkedin</a></li>
-                                    <li><a target="_blank" href="https://www.instagram.com/que_leap/">Instagram</a></li>
+                                    <li><a  href="https://www.instagram.com/que_leap/">Instagram</a></li>
                                     
                                 </ul>
                             </div>
