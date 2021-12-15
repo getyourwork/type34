@@ -1,0 +1,48 @@
+body {
+    background-color: white;
+  }
+  
+  .cstm-height-card .card-img-top {
+    height: 100px;
+    object-fit: cover;
+  }
+  
+  .card {
+    border: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 10px 50px;
+  }
+  .card-title {
+    font-family: Circular Std Bold;
+    font-size: 2rem;
+    letter-spacing: -2px;
+  }
+  
+  .social {
+    display: flex;
+    justify-content: center;
+  }
+  .social a {
+    color: rgb(61, 61, 61);
+  }
+  .lni {
+    padding: 5px;
+  }
+  .card h5,
+  p {
+    margin-bottom: 0;
+  }
+  .card p {
+    margin-bottom: 5px;
+  }
+  
+  @media screen and(max-width: 1024px) {
+    .card {
+      margin: 10px;
+      background-color: red;
+    }
+  }
