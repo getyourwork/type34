@@ -10,7 +10,7 @@ return <footer className="footer">
                     <div className="single-footer f-about">
                         <div className="logo">
                         <a className="navbar-brand BrAnd" href="/">
-                            GetYourWork
+                            QueLeap
                             </a>
                         </div>
                         <p>helping you to land on your dream job</p>
