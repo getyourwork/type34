@@ -24,9 +24,9 @@ return <footer className="footer">
                             <div className="single-footer f-link">
                                 <h3>Services</h3>
                                 <ul>
-                                    <li><a href="#MOck">Mock Interview</a></li>
-                                    <li><a href="#CVr">Cv Reviewing</a></li>
-                                    <li><a href="#MEntor">Mentoring</a></li>
+                                    <li><a href="#pricing"> Mock Interview</a></li>
+                                    <li><a href="#pricing">Cv Reviewing</a></li>
+                                    <li><a href="#pricing">Mentoring</a></li>
                                  
                                 </ul>
                             </div>
@@ -37,7 +37,7 @@ return <footer className="footer">
                                 <ul>
                                     
                                     <li><a  href="https://twitter.com/thequeleap">Twitter</a></li>
-                                    <li><a href="xs">linkedin</a></li>
+                                    <li><a href="https://www.linkedin.com/company/queleap">linkedin</a></li>
                                     <li><a  href="https://www.instagram.com/que_leap/">Instagram</a></li>
                                     
                                 </ul>
@@ -47,10 +47,10 @@ return <footer className="footer">
                             <div className="single-footer f-link">
                                 <h3>Company</h3>
                                 <ul>
-                                    <li><a href="asd">About Us</a></li>
+                                    <li><a href="#about">About Us</a></li>
                                     <li><a href="asd">Our Team</a></li>
                                    
-                                    <li><a href="asd">Contact Us</a></li>
+                                    <li><a href="#contact">Contact Us</a></li>
                                 </ul>
                             </div>
                         </div>
@@ -68,6 +68,9 @@ return <footer className="footer">
             </div>
         </div>
     </div>
+    <div class="copyright">
+        &copy; 2021 <strong>Queleap</strong> All Rights Reserved
+      </div>
 </footer>
 };
 

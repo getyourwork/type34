@@ -24,31 +24,31 @@ const Navbar=()=>{
                                 <ul id="nav" className="navbar-nav ms-auto">
                                     
                                     <li className="nav-item">
-                                        <a href="#features" className="page-scroll"
-                                            aria-label="Toggle navigation">Services</a>
+                                        <a href="#about" className="page-scroll"
+                                            aria-label="Toggle navigation">About Us</a>
                                     </li>
                                    
                                     <li className="nav-item">
-                                        <a href="#TEam" className="page-scroll"
-                                            aria-label="Toggle navigation">Team</a>
+                                        <a href="#pricing" className="page-scroll"
+                                            aria-label="Toggle navigation">Services</a>
                                     </li>
                                     <li className="nav-item">
                                     {/* <Link to="sbachb"> */}
                                         <a
                                         //  href="/about"
-                                          aria-label="Toggle navigation">About</a>
+                                          aria-label="Toggle navigation">Our Experts</a>
                                           {/* </Link> */}
                                     </li>
                                    
                                     <li className="nav-item">
                                         <a 
-                                        // href="/contact" 
+                                        href="#contact" 
                                         aria-label="Toggle navigation">Contact</a>
                                     </li>
                                 </ul>
                             </div> 
                             <div className="button add-list-button">
-                                <a href="javascript" class="btn">Say hi</a>
+                                <a href="tel:7907151897" class="btn">Call Us</a>
                             </div>
                         </nav>
                         

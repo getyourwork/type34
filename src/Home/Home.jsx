@@ -3,10 +3,14 @@ import './Home.css';
 import Navbar from '../Components/Navbar/Navbar';
 import FirstPage from '../Components/sections/FirstPage';
 import Services from '../Components/sections/Services';
-import Minfo from '../Components/sections/Minfo';
+import About from '../Components/sections/About';
+import Achievement from '../Components/sections/Achievement';
+import Pricing from '../Components/sections/Pricing';
 
-import MockSec from '../Components/sections/MockSec';
-import Cta from '../Components/sections/Cta';
+
+
+import Contact from '../Components/sections/Contact';
+import Brands  from '../Components/sections/Brands';
 // import TeamMem from '../Components/sections/TeamMem';
 
 
@@ -20,11 +24,18 @@ return <div>
 
     <Navbar/>
     <FirstPage/>
+    <About/>
+    <Achievement/>    
+
+    
     <Services/>
-    <Minfo/> 
+    <Brands/>
+    {/* <Cta/>
     <MockSec/>
-    <Cta/>
+    <Minfo/>  */}
+    <Pricing/>
     {/* <TeamMem/> */}
+    <Contact/>
     <Footer/>
 </div>
 

@@ -17,9 +17,7 @@ const MockSec=()=>{
          <div className="col-sm-7 sdf">
             
             <h5 className="about-desc">
-            Tensed to attend your first interview ?
-Our Mock Interview sessions from experts can help you understand the patterns and type of questions you are going to face in your real interviews.
-These sessions can help you understand more about your strongest and weakest areas in a particular field of interest
+            These expert sessions can help you understand more about your strongest and weakest areas in a particular field of interest.
                      </h5>
        </div>
      </div>

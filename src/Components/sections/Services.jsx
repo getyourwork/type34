@@ -1,8 +1,8 @@
 import React from "react";
 
- import { SiGooglemeet } from 'react-icons/si';
- import { RiNewspaperLine } from 'react-icons/ri';
- import { FaGraduationCap} from 'react-icons/fa';
+ import { GiVideoConference } from 'react-icons/gi';
+ import { IoMdChatbubbles } from 'react-icons/io';
+ import { FiPhoneCall} from 'react-icons/fi';
 
 
 
@@ -14,8 +14,8 @@ return <section id="features" class="features section">
     <div class="row">
         <div class="col-12">
             <div class="section-title">
-                <h3 class="wow zoomIn" data-wow-delay=".2s">Features</h3>
-                <h2 class="wow fadeInUp" data-wow-delay=".4s">Tools That Helps You Get Hired.
+                <h3 class="wow zoomIn" data-wow-delay=".2s">Appointment</h3>
+                <h2 class="wow fadeInUp" data-wow-delay=".4s">How it works ?
                 </h2>
                
             </div>
@@ -26,46 +26,45 @@ return <section id="features" class="features section">
             <div class="single-feature wow fadeInUp" data-wow-delay=".2s">
             
                 <i class="lni lni-cloud-upload">
-                <SiGooglemeet
+                <FiPhoneCall
                         size={35}
                         className='iconStyle'
                     />
                  
                    
                 </i>
-                <h3>Mock Interview</h3>
+                <h3>Give us a call</h3>
                 <p>
-                Book an interviews with experts from your dream 
-                companies and experience the real interview on a single call
+                Pick your phone and give us a call to know more about our services.
                 </p>
             </div>
         </div>
         <div class="col-lg-4 col-md-6 col-12">
             <div class="single-feature wow fadeInUp" data-wow-delay=".4s">
                 <i class="lni lni-lock">
-                    <RiNewspaperLine
+                    <IoMdChatbubbles
                         size={35}
                         className='iconStyle'
                     />
                 </i>
-                <h3>CV Review</h3>
+                <h3>Talk with our team</h3>
                 <p>
-                Feeling insecure about your cv just book your slot and get your CV reviewed by our experts on a call.
-
+                Our team will collect your required details for starting your session.
                 </p>
             </div>
         </div>
         <div class="col-lg-4 col-md-6 col-12">
             <div class="single-feature wow fadeInUp" data-wow-delay=".6s">
                 <i class="lni lni-reload">
-                <FaGraduationCap
-                        size={35}
+                <GiVideoConference
+                        size={40}
                         className='iconStyle'
                 />
                 </i>
-                <h3>Mentoring</h3>
-                <p>Schedule your 1:1 mentoring session with our experts 
-                from your dream companies on a single call.</p>
+                <h3>Start your session</h3>
+                <p>
+                Submit your required details and start your session
+                </p>
             </div>
         </div>
         

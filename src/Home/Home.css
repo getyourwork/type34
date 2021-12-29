@@ -22,6 +22,74 @@ body{
 /*======================================
     Normalize CSS
 ========================================*/
+ .copyright {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 20px;
+  color: rgb(206, 201, 201);
+}
+.about{
+  margin: 5% 2%;
+  
+}
+.text123{
+  text-align: left;
+}
+.contact-wrap{
+  margin-top: 3%;
+  
+}
+.contact1 .contact-wrap .contactu .button .btn{
+  background-color: #fff;
+  color: #3865F2;
+}
+.contact1 .contact-wrap .contactu .button .btn:hover{
+  background-color: #070928;
+  color: #fff;
+}
+.contactu{
+  color:#fff;
+
+  text-align: center;
+  background-color: #3865F2;
+  width: 100%;
+  margin: 0 auto;
+  padding: 3%;
+
+}
+
+
+
+
+.Brands-div{
+  background-color: #3865F2;
+  color: #fff;
+  padding: 5%;
+  text-align: center;
+}
+.Brands-div h2{
+  color: #fff;
+  margin-bottom: 8px;
+}
+.Brands-row{
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  margin:15px;
+}
+.fb{
+  height: 80px;
+}
+
+.Brands-logo{
+margin: auto;
+}
+
+
+
+
+
 
 p {
   margin: 0;
@@ -65,7 +133,7 @@ button:focus,
 }
 .name-desc {
     font-family: 'IBM Plex Mono', monospace;
-    font-size: 25px !important; 
+    font-size: 20px !important; 
     color: #D2D6DC;
     
     /* width: 550px; */
@@ -86,7 +154,7 @@ button:focus,
   }
   
   .iconStyle{
-    padding-bottom: 8px;
+    padding-bottom: 5px;
   }
   .center1{
     text-align: center;
@@ -2469,6 +2537,8 @@ ol {
   background-color: #f9f9f9;
 }
 
+
+
 .pricing-table .section-title {
   margin-bottom: 50px;
 }
@@ -2480,7 +2550,7 @@ ol {
 }
 
 .pricing-table .single-table {
-  border: 1px solid #eee;
+    border: 1px solid #eee;
   border-radius: 10px;
   margin-top: 30px;
   background-color: #fff;
@@ -2519,7 +2589,9 @@ ol {
 .pricing-table .single-table .table-head .price .amount {
   font-size: 30px;
   font-weight: 700;
-  display: inline-block;
+  /* display: inline-block;   */
+  display: flexbox;
+  margin: auto;
 }
 
 .pricing-table .single-table .table-head .price .amount .duration {
