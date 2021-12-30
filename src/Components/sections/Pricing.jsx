@@ -8,7 +8,7 @@ const pricing=()=>{
             <div class="col-12">
                 <div class="section-title">
                     <h3 class="wow zoomIn" data-wow-delay=".2s">Services</h3>
-                    <h2 class="wow fadeInUp" data-wow-delay=".4s">What We Provide</h2>
+                    <h2 class="wow fadeInUp" data-wow-delay=".4s">What we provide</h2>
                     
                 </div>
             </div>
@@ -18,15 +18,15 @@ const pricing=()=>{
             <div class="col-lg-4 col-md-6 col-12">
                 <div class="single-table wow fadeInUp" data-wow-delay=".2s">
                     <div class="table-head">
-                        <h4 class="title">CV Reviewing</h4>
+                        <h4 class="title">CV reviewing</h4>
                         <p>
-                        A properly reviewed CV can help you get your dream job. Our experts from various field can help you in creating your perfect CV.   
+                        A properly reviewed CV can help you get your dream job. Our experts from various field can help you in creating your perfect CV. Why wait?   
                         </p>
                         <div class="price">
                             <h2 class="amount">₹399<span class="duration"></span></h2>
                         </div>
                         <div class="button">
-                            <a href="javascript:void(0)" class="btn">Book Now</a>
+                            <a href="tel:7907151897" class="btn">Book now</a>
                         </div>
                     </div>
                     
@@ -36,16 +36,16 @@ const pricing=()=>{
                 <div class="single-table wow fadeInUp" data-wow-delay=".4s">
                     <div class="table-head">
                         <h4 class="title">
-                        Mock Interview
+                        Mock interview
                         </h4>
                         <p>
-                        These expert sessions can help you understand more about your strongest and weakest areas in a particular field of interest.
+                        These expert sessions can help you understand more about your strongest and weakest areas in a particular field of interest on a single session.
                         </p>
                         <div class="price">
-                            <h2 class="amount">₹399<span class="duration"></span></h2>
+                            <h2 class="amount">₹499<span class="duration"></span></h2>
                         </div>
                         <div class="button">
-                            <a href="javascript:void(0)" class="btn">Book Now</a>
+                            <a href="tel:7907151897" class="btn">Book now</a>
                         </div>
                     </div>
                    
@@ -54,19 +54,66 @@ const pricing=()=>{
             <div class="col-lg-4 col-md-6 col-12">
                 <div class="single-table wow fadeInUp" data-wow-delay=".6s">
                     <div class="table-head">
-                        <h4 class="title">1 : 1 Mentoring</h4>
-                        <p>Getting mentored by an industry expert from the start of your professional career can create a major impact on your future jobs.</p>
+                        <h4 class="title">Last minute hack</h4>
+                        <p>
+                        Have you missed your topics or finding it difficult to understand the concept ? Last minute hack can help you clear your doubts from the expert guides
+                        </p>
                         <div class="price">
-                            <h2 class="amount">₹399<span class="duration"></span></h2>
+                            <h2 class="amount">₹499<span class="duration"></span></h2>
                         </div>
                         <div class="button">
-                            <a href="javascript:void(0)" class="btn">Book Now</a>
+                            <a href="tel:7907151897" class="btn">Book now</a>
                         </div>
                     </div>
                    
                 </div>
             </div>
+          
             
+        </div>
+        <div className='row'>
+        <div className='col-lg-2'>
+
+        </div>
+        <div class="col-lg-4 col-md-6 col-12">
+                <div class="single-table wow fadeInUp" data-wow-delay=".6s">
+                    <div class="table-head">
+                        <h4 class="title">Career booster</h4>
+                        <p>
+                        Have true passion towards engineering and now finding it difficult to explore more opportunities around you? Career booster can help you on a single call.
+                        </p>
+                        <div class="price">
+                            <h2 class="amount">₹149<span class="duration"></span></h2>
+                        </div>
+                        <div class="button">
+                            <a href="tel:7907151897" class="btn">Book now</a>
+                        </div>
+                    </div>
+                   
+                </div>
+            </div>
+
+            <div class="col-lg-4 col-md-6 col-12" >
+                <div class="single-table wow fadeInUp" data-wow-delay=".6s">
+                    <div class="table-head">
+                        <h4 class="title">Project booster</h4>
+                        <p>
+                        Confused about project ideas , working model , prototype ...... Project booster experts can help you understand the flow and process you need to follow.
+                        </p>
+                        <div class="price">
+                            <h2 class="amount">₹299<span class="duration"></span></h2>
+                        </div>
+                        <div class="button">
+                            <a href="tel:7907151897" class="btn">Book now</a>
+                        </div>
+                    </div>
+                   
+                </div>
+            </div>
+            <div className='col-lg-2'>
+
+            </div>
+
         </div>
         </div>
     

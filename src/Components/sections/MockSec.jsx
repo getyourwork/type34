@@ -7,7 +7,7 @@ const MockSec=()=>{
     
   
     return  <div className="container page-3" id="MOck">
-    <h2 className="wow fadeInUp center1" data-wow-delay=".4s">Mock Interview
+    <h2 className="wow fadeInUp center1" data-wow-delay=".4s">Mock interview
                 </h2>
     
      <div className="row second-section">

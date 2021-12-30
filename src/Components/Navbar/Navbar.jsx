@@ -11,7 +11,7 @@ const Navbar=()=>{
                         
                         <nav className="navbar navbar-expand-lg">
                             <a className="navbar-brand BrAnd" href="/">
-                            QueLeap
+                           <b>QueLeap</b> 
                             </a>
                             <button className="navbar-toggler mobile-menu-btn" type="button" data-bs-toggle="collapse"
                                 data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"

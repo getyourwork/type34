@@ -126,6 +126,67 @@ button:focus,
   border-color: #3865F2;
 }
 
+
+.clients {
+  padding-top: 20px;
+  background-color: #3865F2;
+  text-align: center;
+  
+
+}
+.clients .container{
+  padding-top:3%;
+}
+.clients .row{
+  display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+    margin-top:3%;
+    padding-bottom:3% ;
+}
+
+.clients .row .col-lg-2{
+  flex:16.6%;
+}
+.brand-logo1{
+  opacity: 0.5;
+  transition: 0.3s;
+  filter: grayscale(100);
+}
+
+.brand-logo1:hover{
+  filter: none;
+  opacity: 1;
+}
+
+.clients h4{
+  color: #fff;
+}
+.clients .swiper{
+ display: flex;
+}
+.clients .swiper-slide img {
+  opacity: 0.5;
+  transition: 0.3s;
+  filter: grayscale(100);
+  width: 100px;
+  
+
+
+}
+.clients .swiper-slide img:hover {
+  filter: none;
+  opacity: 1;
+}
+
+.clients .image-fluid {
+
+}
+
+
 .header-img{
   width: 100%;
   height: 100%;
@@ -134,7 +195,7 @@ button:focus,
 .name-desc {
     font-family: 'IBM Plex Mono', monospace;
     font-size: 20px !important; 
-    color: #D2D6DC;
+    color: #D2D6DC !important;
     
     /* width: 550px; */
     opacity: 84%;

@@ -14,7 +14,7 @@ const Minfo=()=>{
                     </p>
                     <div className="button wow fadeInUp" data-wow-delay=".6s">
                        <Link to="/cvr">
-                        <a  className="btn">Book Now</a>
+                        <a  className="btn">Book now</a>
                         </Link>
                     </div>
                 </div>

@@ -21,19 +21,19 @@ const Achievement=()=>{
                     <div class="col-lg-4 col-md-4 col-12">
                         <div class="single-achievement wow fadeInUp" data-wow-delay=".2s">
                             <h3 class="counter"><span id="secondo1" class="countup" cup-end="100">70</span>+</h3>
-                            <p>CV Reviewed</p>
+                            <p>CV reviewed</p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-12">
                         <div class="single-achievement wow fadeInUp" data-wow-delay=".4s">
-                            <h3 class="counter"><span id="secondo2" class="countup" cup-end="120">28</span></h3>
-                            <p>Mock Interviews</p>
+                            <h3 class="counter"><span id="secondo2" class="countup" cup-end="120">28</span>+</h3>
+                            <p>Mock interviews</p>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-4 col-12">
                         <div class="single-achievement wow fadeInUp" data-wow-delay=".6s">
-                            <h3 class="counter"><span id="secondo3" class="countup" cup-end="125">93</span></h3>
-                            <p>Got Mentored</p>
+                            <h3 class="counter"><span id="secondo3" class="countup" cup-end="125">93</span>+</h3>
+                            <p>Got mentored</p>
                         </div>
                     </div>
                 </div>

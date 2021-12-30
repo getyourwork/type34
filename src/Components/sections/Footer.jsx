@@ -13,7 +13,7 @@ return <footer className="footer">
                             QueLeap
                             </a>
                         </div>
-                        <p>helping you to land on your dream job</p>
+                        <p>Ready to leap from the que?</p>
                       
                         
                     </div>
@@ -24,8 +24,8 @@ return <footer className="footer">
                             <div className="single-footer f-link">
                                 <h3>Services</h3>
                                 <ul>
-                                    <li><a href="#pricing"> Mock Interview</a></li>
-                                    <li><a href="#pricing">Cv Reviewing</a></li>
+                                    <li><a href="#pricing"> Mock interview</a></li>
+                                    <li><a href="#pricing">CV reviewing</a></li>
                                     <li><a href="#pricing">Mentoring</a></li>
                                  
                                 </ul>
@@ -33,7 +33,7 @@ return <footer className="footer">
                         </div>
                         <div className="col-lg-3 col-md-6 col-12">
                             <div className="single-footer f-link">
-                                <h3>Follow Us</h3>
+                                <h3>Follow us</h3>
                                 <ul>
                                     
                                     <li><a  href="https://twitter.com/thequeleap">Twitter</a></li>
@@ -47,10 +47,10 @@ return <footer className="footer">
                             <div className="single-footer f-link">
                                 <h3>Company</h3>
                                 <ul>
-                                    <li><a href="#about">About Us</a></li>
-                                    <li><a href="asd">Our Team</a></li>
+                                    <li><a href="#about">About us</a></li>
+                                    <li><a href="asd">Our team</a></li>
                                    
-                                    <li><a href="#contact">Contact Us</a></li>
+                                    <li><a href="#contact">Contact us</a></li>
                                 </ul>
                             </div>
                         </div>
