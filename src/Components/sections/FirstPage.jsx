@@ -6,7 +6,7 @@ const FirstPage=()=>{
             <div className="row align-items-center">
                 <div className="col-lg-5 col-md-12 col-12">
                     <div className="hero-content">
-                        <h1 className="wow fadeInLeft" data-wow-delay=".4s">How to get my dream job ??</h1>
+                        <h1 className="wow fadeInLeft" data-wow-delay=".4s">Ready to leap from the que??</h1>
                         <p className="name-desc fadeInLeft  " data-wow-delay=".6s">Is this question bothers you ?
                         We are here to help you on a single call.</p>
                         <div className="button wow fadeInLeft" data-wow-delay=".8s">
