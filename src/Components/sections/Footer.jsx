@@ -26,7 +26,9 @@ return <footer className="footer">
                                 <ul>
                                     <li><a href="#pricing"> Mock interview</a></li>
                                     <li><a href="#pricing">CV reviewing</a></li>
-                                    <li><a href="#pricing">Mentoring</a></li>
+                                    <li><a href="#pricing">Last minute hack</a></li>
+                                    <li><a href="#pricing">Career booster</a></li>
+                                    <li><a href="#pricing">Project booster</a></li>
                                  
                                 </ul>
                             </div>

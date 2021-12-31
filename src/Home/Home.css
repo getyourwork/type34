@@ -61,30 +61,7 @@ body{
 
 
 
-.Brands-div{
-  background-color: #3865F2;
-  color: #fff;
-  padding: 5%;
-  text-align: center;
-}
-.Brands-div h2{
-  color: #fff;
-  margin-bottom: 8px;
-}
-.Brands-row{
-  display: -ms-flexbox;
-  display: flex;
-  -ms-flex-wrap: wrap;
-  flex-wrap: wrap;
-  margin:15px;
-}
-.fb{
-  height: 80px;
-}
 
-.Brands-logo{
-margin: auto;
-}
 
 
 
@@ -152,9 +129,11 @@ button:focus,
   flex:16.6%;
 }
 .brand-logo1{
+  margin: 15px 0;
   opacity: 0.5;
   transition: 0.3s;
   filter: grayscale(100);
+  width: 200px;
 }
 
 .brand-logo1:hover{
@@ -1316,7 +1295,7 @@ ol {
   font-size: 34px;
   margin-bottom: 25px;
   line-height: 42px;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   position: relative;
   font-weight: 800;
 }
@@ -1515,7 +1494,7 @@ ol {
 
 .button .btn {
   display: inline-block;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
   font-size: 15px;
   font-weight: 600;
   padding: 13px 30px;
@@ -2279,7 +2258,7 @@ ol {
 .hero-area .hero-content {
   border-radius: 0;
   position: relative;
-  z-index: 1;
+  /* z-index: 1; */
   text-align: left;
 }
 
@@ -2289,7 +2268,7 @@ ol {
   line-height: 50px;
   color: #fff;
   text-shadow: 0px 3px 8px #00000017;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
 }
 
 .hero-area .hero-content h1 span {
@@ -2575,7 +2554,7 @@ ol {
   font-size: 15px;
   color: #fff;
   font-weight: 500;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px), (max-width: 767px) {
@@ -3060,7 +3039,7 @@ ol {
   display: block;
   margin-bottom: 10px;
   font-weight: 600;
-  text-transform: capitalize;
+  /* text-transform: capitalize; */
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {

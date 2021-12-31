@@ -6,7 +6,7 @@ const Contact=()=>{
     <div class="contact-wrap"> 
         <div class=" contactu">
             <h3 className='title' style={{color:'white'}}>Submit your CV</h3>
-            <p>
+            <p style={{marginTop:"20px"}}>
                 To have an effective session with our experts kindly submit your cv here as an attachment. 
             </p>
             <p style={{marginTop:"40px"}}>

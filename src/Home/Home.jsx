@@ -25,11 +25,12 @@ return <div>
     <Navbar/>
     <FirstPage/>
     <About/>
-    <Achievement/>    
+    <Brands/>
+      
 
     
     <Services/>
-    <Brands/>
+    <Achievement/>  
     {/* <Cta/>
     <MockSec/>
     <Minfo/>  */}
