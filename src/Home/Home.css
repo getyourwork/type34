@@ -140,7 +140,11 @@ button:focus,
   filter: none;
   opacity: 1;
 }
-
+@media (max-width: 767px) {
+  .brand-logo1 {
+    width:150px;
+  }
+}
 .clients h4{
   color: #fff;
 }
@@ -161,9 +165,7 @@ button:focus,
   opacity: 1;
 }
 
-.clients .image-fluid {
 
-}
 
 
 .header-img{
@@ -177,7 +179,7 @@ button:focus,
     color: #D2D6DC !important;
     
     /* width: 550px; */
-    /* opacity: 84%; */
+    opacity: 84%;
     
   
   }
