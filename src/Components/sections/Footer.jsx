@@ -13,7 +13,7 @@ return <footer className="footer">
                             QueLeap
                             </a>
                         </div>
-                        <p>Ready to leap from the que?</p>
+                        <p>Leap from the Que</p>
                       
                         
                     </div>
