@@ -7,8 +7,8 @@ const pricing=()=>{
         <div class="row">
             <div class="col-12">
                 <div class="section-title">
-                    <h3 class="wow zoomIn" data-wow-delay=".2s">Services</h3>
-                    <h2 class="wow fadeInUp" data-wow-delay=".4s">What we provide</h2>
+                    <h3 class="wow " data-aos="zoom-in">Services</h3>
+                    <h2 class="wow " data-aos="fade-up">What we provide</h2>
                     
                 </div>
             </div>
@@ -16,7 +16,7 @@ const pricing=()=>{
 
         <div class="row pricing-space">
             <div class="col-lg-4 col-md-6 col-12">
-                <div class="single-table wow fadeInUp" data-wow-delay=".2s">
+                <div class="single-table wow" data-aos="fade-up">
                     <div class="table-head">
                         <h4 class="title">CV reviewing</h4>
                         <p>
@@ -33,7 +33,7 @@ const pricing=()=>{
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-12">
-                <div class="single-table wow fadeInUp" data-wow-delay=".4s">
+                <div class="single-table wow " data-aos="fade-up">
                     <div class="table-head">
                         <h4 class="title">
                         Mock interview
@@ -52,7 +52,7 @@ const pricing=()=>{
                 </div>
             </div>
             <div class="col-lg-4 col-md-6 col-12">
-                <div class="single-table wow fadeInUp" data-wow-delay=".6s">
+                <div class="single-table wow " data-aos="fade-up">
                     <div class="table-head">
                         <h4 class="title">Last minute hack</h4>
                         <p>
@@ -76,7 +76,7 @@ const pricing=()=>{
 
         </div>
         <div class="col-lg-4 col-md-6 col-12">
-                <div class="single-table wow fadeInUp" data-wow-delay=".6s">
+                <div class="single-table wow" data-aos="fade-up">
                     <div class="table-head">
                         <h4 class="title">Career booster</h4>
                         <p>
@@ -94,7 +94,7 @@ const pricing=()=>{
             </div>
 
             <div class="col-lg-4 col-md-6 col-12" >
-                <div class="single-table wow fadeInUp" data-wow-delay=".6s">
+                <div class="single-table wow" data-aos="fade-up">
                     <div class="table-head">
                         <h4 class="title">Project booster</h4>
                         <p>
