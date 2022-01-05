@@ -35,15 +35,15 @@ const Navbar=()=>{
                                     <li className="nav-item">
                                     {/* <Link to="sbachb"> */}
                                         <a
-                                        //  href="/about"
-                                          aria-label="Toggle navigation">Our Experts</a>
+                                         href="#contact"
+                                          aria-label="Toggle navigation">Contact</a>
                                           {/* </Link> */}
                                     </li>
                                    
                                     <li className="nav-item">
                                         <a 
-                                        href="#contact" 
-                                        aria-label="Toggle navigation">Contact</a>
+                                        href="#Whyus" 
+                                        aria-label="Toggle navigation">Why us</a>
                                     </li>
                                 </ul>
                             </div> 

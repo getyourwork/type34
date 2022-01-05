@@ -26,7 +26,7 @@ const pricing=()=>{
                             <h2 class="amount">₹399<span class="duration"></span></h2>
                         </div>
                         <div class="button">
-                            <a href="tel:7907151897" class="btn">Book now</a>
+                            <a href="https://wa.me/message/C5EWHQRB437XJ1" class="btn">Book now</a>
                         </div>
                     </div>
                     
@@ -45,7 +45,7 @@ const pricing=()=>{
                             <h2 class="amount">₹499<span class="duration"></span></h2>
                         </div>
                         <div class="button">
-                            <a href="tel:7907151897" class="btn">Book now</a>
+                            <a href="https://wa.me/message/QHMOEPPIXMDQH1" class="btn">Book now</a>
                         </div>
                     </div>
                    
@@ -62,7 +62,7 @@ const pricing=()=>{
                             <h2 class="amount">₹499<span class="duration"></span></h2>
                         </div>
                         <div class="button">
-                            <a href="tel:7907151897" class="btn">Book now</a>
+                            <a href="https://wa.me/message/QHMOEPPIXMDQH1" class="btn">Book now</a>
                         </div>
                     </div>
                    
@@ -86,7 +86,7 @@ const pricing=()=>{
                             <h2 class="amount">₹149<span class="duration"></span></h2>
                         </div>
                         <div class="button">
-                            <a href="tel:7907151897" class="btn">Book now</a>
+                            <a href="https://wa.me/message/C5EWHQRB437XJ1" class="btn">Book now</a>
                         </div>
                     </div>
                    
@@ -104,7 +104,7 @@ const pricing=()=>{
                             <h2 class="amount">₹299<span class="duration"></span></h2>
                         </div>
                         <div class="button">
-                            <a href="tel:7907151897" class="btn">Book now</a>
+                            <a href="https://wa.me/message/QHMOEPPIXMDQH1" class="btn">Book now</a>
                         </div>
                     </div>
                    

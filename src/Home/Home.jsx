@@ -16,6 +16,7 @@ import Brands  from '../Components/sections/Brands';
 // import TeamMem from '../Components/sections/TeamMem';
 
 
+import WhyUs from '../Components/sections/WhyUs';
 
 import Footer from '../Components/sections/Footer';
 
@@ -42,6 +43,7 @@ return <div>
     <Pricing/>
     {/* <TeamMem/> */}
     <Contact/>
+    <WhyUs/>    
     <Footer/>
 </div>
 

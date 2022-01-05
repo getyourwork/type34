@@ -33,9 +33,9 @@ return <section id="features" class="features section">
                  
                    
                 </i>
-                <h3>Give us a call</h3>
+                <h3>Drop a hi</h3>
                 <p>
-                Pick your phone and give us a call to know more about our services.
+                Pick your phone and Drop a hi to know more about our services.
                 </p>
             </div>
         </div>

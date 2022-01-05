@@ -6,8 +6,8 @@ const FirstPage=()=>{
             <div className="row align-items-center">
                 <div className="col-lg-5 col-md-12 col-12">
                     <div className="hero-content">
-                        <h1 className="wow " data-aos="fade-right">Ready to leap from the que??</h1>
-                        <p className="name-desc" data-aos="fade-right" data-aos-duration="2500">book a session of your choice and leap from the que</p>
+                        <h1 className="wow " data-aos="fade-right">Ready to leap from the Que??</h1>
+                        <p className="name-desc" data-aos="fade-right" data-aos-duration="2500">Book a session of your choice and leap from the que</p>
                         <div className="button wow " data-aos="fade-right" data-aos-duration="2500">
                             <a href="#pricing" className="btn">Book your slot</a>
                             {/* <a href="https://www.youtube.com/watch?v=r44RKWyfcFw&fbclid=IwAR21beSJORalzmzokxDRcGfkZA1AtRTE__l5N4r09HcGS5Y6vOluyouM9EM"
