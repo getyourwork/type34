@@ -18,7 +18,7 @@ const WhyUs = ()=>{
                 <div class="single-feature wow fadeInUp" data-wow-delay=".2s">
                 
                   
-                    <h3>Serve</h3>
+                    <h3><b>Serve</b></h3>
                     <p>
                     We as a service providing company, will always make sure that we give you the best professional from the Industry to get things cleared properly at the end to make you confident before you appear for an interview.
                     </p>
@@ -27,7 +27,7 @@ const WhyUs = ()=>{
             <div class="col-lg-4 col-md-6 col-12">
                 <div class="single-feature wow fadeInUp" data-wow-delay=".4s">
                    
-                    <h3>Earn</h3>
+                    <h3><b>Earn</b></h3>
                     <p>
                     We ask a minimal fee because as an organization we always value our
                      vibrant professional/Expert team who stand with us by giving their 
@@ -38,7 +38,7 @@ const WhyUs = ()=>{
             <div class="col-lg-4 col-md-6 col-12">
                 <div class="single-feature wow fadeInUp" data-wow-delay=".6s">
                    
-                    <h3>Share</h3>
+                    <h3><b>Share</b></h3>
                     <p>
                     We as socially responsible human beings, will always stick to our value
                      of sharing. We donate a small amount from the fees you paid to any of 
