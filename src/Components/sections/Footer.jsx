@@ -34,8 +34,13 @@ return <footer className="footer" id="Footer123">
                             QueLeap
                             </a>
                         </div>
-                        <p>Leap from the Que</p>
-                      
+                        <h6 style={{paddingLeft:'5px'}}>Leap from the Que</h6>
+                        <br/>
+                      <ul className='detail-info'style={{paddingLeft:'5px'}}>
+                          <li>Contactnumber - 7907151897</li>
+                          <li>Email address - admin@queleap.com</li>
+                          <li>Based at Calicut.</li>
+                      </ul>
                         
                     </div>
                 </div>
