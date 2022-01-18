@@ -37,8 +37,8 @@ return <footer className="footer" id="Footer123">
                         <h6 style={{paddingLeft:'5px'}} className='footer-tag'>Leap from the Que</h6>
                         <br/>
                       <ul className='detail-info'style={{paddingLeft:'5px'}}>
-                          <li>Contactnumber - 7907151897</li>
-                          <li>Email address - admin@queleap.com</li>
+                          <li>Mobile number - 7907151897</li>
+                          <li>Mail us - admin@queleap.com</li>
                           <li>Based at Calicut.</li>
                       </ul>
                         
