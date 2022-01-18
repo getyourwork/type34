@@ -34,7 +34,7 @@ return <footer className="footer" id="Footer123">
                             QueLeap
                             </a>
                         </div>
-                        <h6 style={{paddingLeft:'5px'}}>Leap from the Que</h6>
+                        <h6 style={{paddingLeft:'5px'}} className='footer-tag'>Leap from the Que</h6>
                         <br/>
                       <ul className='detail-info'style={{paddingLeft:'5px'}}>
                           <li>Contactnumber - 7907151897</li>

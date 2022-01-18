@@ -359,10 +359,10 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 300;
+  font-weight: 600;
   margin: 0px;
-  color: #fff;
-}
+  color: #070928;
+}   
 
 h1 a,
 h2 a,
@@ -3279,4 +3279,10 @@ ol {
 .detail-info{
 
   color: #fff;
+}
+
+
+.footer-tag{
+  color: #fff;
+  font-weight: 300;
 }
