@@ -10,6 +10,7 @@ const FirstPage=()=>{
                         <p className="name-desc" data-aos="fade-right" data-aos-duration="2500">Book a session of your choice and leap from the que</p>
                         <div className="button wow " data-aos="fade-right" data-aos-duration="2500">
                             <a href="#pricing" className="btn">Book your slot</a>
+                            <a href="https://t.me/queleap" className="btn btn-dark">Join our community</a>
                             {/* <a href="https://www.youtube.com/watch?v=r44RKWyfcFw&fbclid=IwAR21beSJORalzmzokxDRcGfkZA1AtRTE__l5N4r09HcGS5Y6vOluyouM9EM"
                                 class="glightbox video-button"><span class="video"><i
                                         class="lni lni-play"></i></span><span class="text">Watch Intro</span></a> */}
