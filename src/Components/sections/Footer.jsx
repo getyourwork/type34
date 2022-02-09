@@ -39,7 +39,7 @@ return <footer className="footer" id="Footer123">
                       <ul className='detail-info'style={{paddingLeft:'5px'}}>
                           <li>Phone - 7907151897</li>
                           <li>Mail us - admin@queleap.com</li>
-                          <li>Address/Location - Calicut.</li>
+                          <li>Address/Location - Calicut</li>
                       </ul>
                         
                     </div>
