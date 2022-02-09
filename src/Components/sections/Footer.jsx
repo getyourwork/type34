@@ -13,7 +13,7 @@ return <footer className="footer" id="Footer123">
             </p>
 
             <p>
-            Drop your updated resume <a href='mailto:admin@queleap.com' style={{color:'white'}}>admin@queleap.com</a>
+            Drop your updated resume - <a href='mailto:admin@queleap.com' style={{color:'white'}}>admin@queleap.com</a>
             </p>
             <p 
             // style={{marginTop:"40px"}}
