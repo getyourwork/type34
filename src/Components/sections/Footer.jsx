@@ -67,7 +67,7 @@ return <footer className="footer" id="Footer123">
                                     <li><a  href="https://twitter.com/thequeleap">Twitter</a></li>
                                     <li><a href="https://www.linkedin.com/company/queleap">linkedin</a></li>
                                     <li><a  href="https://www.instagram.com/que_leap/">Instagram</a></li>
-                                    <li><a  href="t.me/queleap">Telegram</a></li>
+                                    <li><a  href="https://t.me/queleap">Telegram</a></li>
                                     
                                 </ul>
                             </div>
