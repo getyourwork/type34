@@ -23,7 +23,7 @@ const pricing=()=>{
                         A properly reviewed CV can help you get your dream job. Our experts from various field can help you in creating your perfect CV. Why wait?   
                         </p>
                         <div class="price">
-                            <h2 class="amount">₹399<span class="duration"><strike>699</strike></span></h2>
+                            <h2 class="amount">₹349<span class="duration"><strike>699</strike></span></h2>
                         </div>
                         <div class="button">
                             <a href="https://wa.me/message/C5EWHQRB437XJ1" class="btn">Book now</a>
