@@ -23,7 +23,7 @@ const pricing=()=>{
                         A properly reviewed CV can help you get your dream job. Our experts from various field can help you in creating your perfect CV. Why wait?   
                         </p>
                         <div class="price">
-                            <h2 class="amount">₹299<span class="duration"><strike>399</strike></span></h2>
+                            <h2 class="amount">₹399<span class="duration"><strike>699</strike></span></h2>
                         </div>
                         <div class="button">
                             <a href="https://wa.me/message/C5EWHQRB437XJ1" class="btn">Book now</a>
@@ -42,7 +42,7 @@ const pricing=()=>{
                         These expert sessions can help you understand more about your strongest and weakest areas in a particular field of interest on a single session.
                         </p>
                         <div class="price">
-                            <h2 class="amount">₹399<span class="duration"><strike>499</strike></span></h2>
+                            <h2 class="amount">₹499<span class="duration"><strike>799</strike></span></h2>
                         </div>
                         <div class="button">
                             <a href="https://wa.me/message/QHMOEPPIXMDQH1" class="btn">Book now</a>
@@ -59,7 +59,7 @@ const pricing=()=>{
                         Have you missed your topics or finding it difficult to understand the concept ? Last minute hack can help you clear your doubts from the expert guides
                         </p>
                         <div class="price">
-                            <h2 class="amount">₹399<span class="duration"><strike>499</strike></span></h2>
+                            <h2 class="amount">₹499<span class="duration"><strike>799</strike></span></h2>
                         </div>
                         <div class="button">
                             <a href="https://wa.me/message/QHMOEPPIXMDQH1" class="btn">Book now</a>
