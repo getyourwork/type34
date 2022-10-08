@@ -20,7 +20,7 @@ const pricing=()=>{
                     <div class="table-head">
                         <h4 class="title">CV reviewing</h4>
                         <p>
-                        A properly reviewed CV can help you get your dream job. Our experts from various field can help you in creating your perfect CV. Why wait?   
+                        A properly reviewed CV can help you get your dream job. Our experts from various field can help you in creating your perfect CV.   
                         </p>
                         <div class="price">
                             <h2 class="amount">₹349<span class="duration"><strike>699</strike></span></h2>
@@ -39,7 +39,7 @@ const pricing=()=>{
                         Mock interview
                         </h4>
                         <p>
-                        These expert sessions can help you understand more about your strongest and weakest areas in a particular field of interest on a single session.
+                        These expert sessions can help you understand more about your strongest and weakest areas in a particular field of interest.
                         </p>
                         <div class="price">
                             <h2 class="amount">₹499<span class="duration"><strike>799</strike></span></h2>
@@ -56,7 +56,7 @@ const pricing=()=>{
                     <div class="table-head">
                         <h4 class="title">Last minute hack</h4>
                         <p>
-                        Have you missed your topics or finding it difficult to understand the concept ? Last minute hack can help you clear your doubts from the expert guides
+                        Have you missed your topics or finding it difficult to understand the concept ? Last minute hack can help you clear your doubts from the expert guides.
                         </p>
                         <div class="price">
                             <h2 class="amount">₹499<span class="duration"><strike>799</strike></span></h2>
@@ -80,7 +80,7 @@ const pricing=()=>{
                     <div class="table-head">
                         <h4 class="title">Career booster</h4>
                         <p>
-                        Have true passion towards engineering and now finding it difficult to explore more opportunities around you? Career booster can help you on a single call.
+                        Have true passion towards engineering and now finding it difficult to explore more opportunities around you?. Career booster can help you on a single call.
                         </p>
                         <div class="price">
                             <h2 class="amount">₹149<span class="duration"><strike>199</strike></span></h2>
